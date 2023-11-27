@@ -79,3 +79,15 @@ During training, you can utilize these specific fields for building your model. 
 | Betaseron       | antipyrine    | true  | mechanism | Betaseron administration to three cancer patie... |
 | Betaseron       | Betaseron     | false | None      | Betaseron administration to three cancer patie... |
 
+## Additional Details and Processing
+
+For more detailed information on the processing steps and results, refer to the following links:
+
+- **Jupyter Notebook: More Detail Processing**
+  - [Explore the detailed processing steps in the Jupyter Notebook](https://github.com/phanben110/IIR_SemEval-2013-task-9/blob/master/IIR_Preprocessing/Pair_DataFrame.ipynb)
+
+- **Results: Save Results**
+  - [Check the saved results in the 'save_results' directory](https://github.com/phanben110/IIR_SemEval-2013-task-9/tree/master/IIR_Preprocessing/save_results)
+
+Feel free to dive into the provided Jupyter Notebook to understand the step-by-step processing details, and explore the 'save_results' directory for the generated results.
+
